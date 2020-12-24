@@ -10,6 +10,7 @@
     - [2.2. シェルとスケジューラーの実行ユーザー](#22-シェルとスケジューラーの実行ユーザー)
     - [2.3. ファイルの保存場所とファイル名](#23-ファイルの保存場所とファイル名)
   - [3. スケジュール](#3-スケジュール)
+  - [4. ライセンス License](#4-ライセンス-license)
 
 <!-- /TOC -->
 
@@ -111,3 +112,9 @@
   00 15 * * 2 /home/vuls/NAVIT/navit-teams+c.sh > /home/vuls/NAVIT/navit.log 2>&1
   10 11 * * 1-5 /home/vuls/health-check/health-check.sh > /home/vuls/health-check/health-check.log 2>&1
   ```
+
+## 4. ライセンス License
+
+事情によりしばらく `NO LICENSE` といたしますので、`GitHub` の利用規約と著作権法が定める範囲を超えた利用・複製・再頒布などを一切禁止させていただきます。
+
+Due to circumstances, it will be `NO LICENSE` for a while, so I will prohibit any use, duplication, redistribution, etc. beyond the scope of the terms of service of` GitHub` and the copyright law.
